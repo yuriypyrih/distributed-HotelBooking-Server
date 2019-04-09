@@ -1,0 +1,14 @@
+package server_package;
+//ICSD16157 YURIY PYRIH
+//DISTRIBUTED SYSTEMS LAB_2
+
+
+public enum REQUEST_TYPE {
+	START,
+	INSERT,
+	SEARCH,
+	DELETE,
+	WAITING,
+	RESPOND,
+	END
+}
